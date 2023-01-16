@@ -281,7 +281,7 @@ wsa://com.apple.android.music
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
 | QooApp | 8.3.3 | 11 | ✅
 | QPython 3L | 3.0.0 | 11 | ✅
-| QQ | 8.2.11 | 11 | ✅
+| QQ | 8.9.28 | 13，12 | ❌
 | Reddit || 11 | ✅
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
